@@ -1,4 +1,4 @@
-# Jonas Düring — Portfolio
+# polyfant — Portfolio
 
 Single-page portfolio for [github.com/polyfant](https://github.com/polyfant), meant to be linked from LinkedIn and GitHub.
 
@@ -24,7 +24,7 @@ python -m http.server 8741
 
 ### Option B — Vercel / Netlify
 
-Drag the folder into [vercel.com/new](https://vercel.com/new) or [app.netlify.com/drop](https://app.netlify.com/drop) — zero config, instant URL. Add a custom domain later if you want (e.g. `jonasduring.se`).
+Drag the folder into [vercel.com/new](https://vercel.com/new) or [app.netlify.com/drop](https://app.netlify.com/drop) — zero config, instant URL. Add a custom domain later if you want.
 
 ## Structure
 

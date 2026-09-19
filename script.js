@@ -1,4 +1,4 @@
-/* Jonas Düring — portfolio. IntersectionObserver-driven; no scroll listeners.
+/* polyfant — portfolio. IntersectionObserver-driven; no scroll listeners.
    Scroll-scrubbed effects are pure CSS (animation-timeline) where supported;
    this script only adds classes for reveal fallbacks and paints the hero
    particle field (paused whenever the hero is off-screen). */
